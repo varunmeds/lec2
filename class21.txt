@@ -1,1 +1,3 @@
 We're in the second class
+
+Now I'm adding another line
